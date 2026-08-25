@@ -1,0 +1,19 @@
+{
+    "bot": {
+        "token": "YOUR_BOT_TOKEN",
+        "id": "YOUR_BOT_APPLICATION_ID",
+        "name": "Outpost",
+        "developer": ["YOUR_DISCORD_USER_ID"],
+        "ourGuilds": ["YOUR_GUILD_ID"],
+        "embedColor": "#00FFFF",
+        "maintenanceMode": false
+    },
+    "database": {
+        "host": "localhost",
+        "mainIP": "127.0.0.1",
+        "port": 3306,
+        "username": "YOUR_DB_USERNAME",
+        "password": "YOUR_DB_PASSWORD",
+        "dbName": "outpost"
+    }
+}

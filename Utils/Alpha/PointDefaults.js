@@ -1,0 +1,4 @@
+module.exports = {
+    TRIBE_REGISTRATION_START_POINTS: 20,
+    DAILY_REWARD_DEFAULT_AMOUNT: 1
+};
