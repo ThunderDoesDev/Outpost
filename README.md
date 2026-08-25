@@ -1,6 +1,8 @@
 # Outpost
 
-Discord bot for an **Alpha tribe** workflow on ARK clusters: slash commands, MySQL-backed guild configuration, forum threads, tribe registry, points, warnings and offences policy, announcements, automatic daily rewards, and a live leaderboard.
+Discord bot for an **Alpha tribe** workflow on ARK clusters. It works for both **ARK: Survival Evolved (ASE)** and **ARK: Survival Ascended (ASA)**.
+
+Slash commands, MySQL-backed guild configuration, forum threads, tribe registry, points, warnings and offences policy, announcements, automatic daily rewards, and a live leaderboard.
 
 Built with [discord.js](https://discord.js.org/) v14 and [mysql2](https://github.com/sidorares/node-mysql2).
 
@@ -91,4 +93,4 @@ Options and permission checks live under [`Commands/`](./Commands/).
 
 ## License
 
-MIT — see [`package.json`](./package.json).
+MIT — see [`LICENSE`](./LICENSE).
